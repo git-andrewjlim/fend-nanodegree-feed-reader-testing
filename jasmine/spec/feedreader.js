@@ -89,7 +89,7 @@ $(function() {
             });
     
              it('menu changes visibility', function() {
-                let menuVisible = document.querySelector('.menu-hidden');
+                let menuVisible = document.body;
                 const menuClickLink = menuClick = $('.menu-icon-link');
                 //initial state
                 expect(menuVisible.className).toBe("menu-hidden");
