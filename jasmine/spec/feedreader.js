@@ -52,7 +52,7 @@ $(function() {
         });
     });
 
-
+ 
     describe('The menu', function(){
 
         it('menu element slider exists', function() {
