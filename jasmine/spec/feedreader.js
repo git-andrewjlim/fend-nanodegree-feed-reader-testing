@@ -52,7 +52,7 @@ $(function() {
         });
     });
 
-
+ 
     describe('The menu', function(){
 
         it('menu element slider exists', function() {
@@ -119,6 +119,7 @@ $(function() {
             expect(feedEntries.length).not.toBe(0);
         });
     });
+
 
     describe('New Feed Selection', function(){
 
