@@ -46,6 +46,6 @@ There are additional tests created beyond the original scope of the project.
 - feed urls are valid urls: Tests whether the allFeeds object urls are valid URLs
 
 ## Acknowledgments
-The original HTML,CSS and JavaScript templates were provided as a basis and one test suite and spec was written as an example.
+The original HTML,CSS and JavaScript templates were provided as a basis which included one test suite and one spec (written for demonstration purposes).
 
 For one of the tests, I test against a valid regular expression statement, the regular expression was taken from: https://www.regextester.com/93652
